@@ -1,4 +1,4 @@
-# Day 19 — Deployment
+# Day 19 — CDA Revision Notes
 
 ## 1. AWS CodeDeploy
 
@@ -917,3 +917,41 @@ DYNAMODB
 | Managed Git repository | **CodeCommit** |
 | Root EBS detachment | **Stop EC2 first** |
 | Lambda deployment lifecycle traffic hook | **BeforeAllowTraffic / AfterAllowTraffic** |
+
+
+# 20. Cheat Sheets & Quick References
+
+Use these links for fast revision of the Day 19 topics.
+
+## Deployment & CI/CD
+
+- [AWS CodeDeploy Cheat Sheet — Tutorials Dojo](https://tutorialsdojo.com/aws-codedeploy/)
+- [AWS CodeCommit Cheat Sheet — Tutorials Dojo](https://tutorialsdojo.com/aws-codecommit/)
+- [AWS Cheat Sheets — Tutorials Dojo](https://tutorialsdojo.com/aws-cheat-sheets/)
+
+## Serverless / SAM / Lambda
+
+- [AWS SAM Cheat Sheet — Tutorials Dojo](https://tutorialsdojo.com/aws-serverless-application-model-sam/)
+- [AWS Lambda Cheat Sheet — Tutorials Dojo](https://tutorialsdojo.com/aws-lambda/)
+- [AWS Serverless Application Repository Cheat Sheet](https://tutorialsdojo.com/aws-serverless-application-repository/)
+
+## Infrastructure as Code
+
+- [AWS CloudFormation Cheat Sheet — Tutorials Dojo](https://tutorialsdojo.com/aws-cloudformation/)
+- [CloudFormation StackSets & Nested Stacks — Tutorials Dojo](https://tutorialsdojo.com/aws-cloudformation-stacksets-and-nested-stacks/)
+
+## Elastic Beanstalk
+
+- [AWS Elastic Beanstalk Cheat Sheet — Tutorials Dojo](https://tutorialsdojo.com/aws-elastic-beanstalk/)
+
+## DynamoDB
+
+- [Amazon DynamoDB Cheat Sheet — Tutorials Dojo](https://tutorialsdojo.com/amazon-dynamodb/)
+- [Calculating Required RCU and WCU — Tutorials Dojo](https://tutorialsdojo.com/calculating-required-rcu-and-wcu-for-your-dynamodb-table/)
+
+## AWS CDA Study Reference
+
+- [AWS Certified Developer Associate — Tutorials Dojo Study Path](https://tutorialsdojo.com/aws-certified-developer-associate-exam-guide-study-path-dva-c02/)
+- [AWS Certified Developer Associate Study Guide & Cheat Sheets](https://portal.tutorialsdojo.com/product/tutorials-dojo-study-guide-and-cheat-sheets-aws-certified-developer-associate/)
+
+> **Revision tip:** Use the cheat sheet first for quick recall, then return to the Day 19 notes for the exam traps, comparisons, commands, and calculations.
